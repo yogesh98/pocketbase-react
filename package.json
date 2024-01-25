@@ -14,13 +14,18 @@
   ],
   "license": "MIT",
   "author": "Tobias Krainhöfner",
-  "homepage": "https://github.com/tobicrain/pocketbase-react#readme",
+  "contributors" : [
+    {
+      "name" : "Yogesh Patel"
+    }
+  ],
+  "homepage": "https://github.com/yogesh98/pocketbase-react#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tobicrain/pocketbase-react.git"
+    "url": "git+https://github.com/yogesh98/pocketbase-react.git"
   },
   "bugs": {
-    "url": "https://github.com/tobicrain/pocketbase-react/issues"
+    "url": "https://github.com/yogesh98/pocketbase-react/issues"
   },
   "main": "lib/index.js",
   "types": "es/index.d.ts",
@@ -45,7 +50,7 @@
     "prepublishOnly": "npm run build"
   },
   "peerDependencies": {
-    "pocketbase": "0.8.1"
+    "pocketbase": "0.21.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
@@ -68,7 +73,7 @@
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.17.10",
     "@reduxjs/toolkit": "^1.8.5",
-    "pocketbase": "0.8.1",
+    "pocketbase": "0.21.0",
     "react-redux": "^8.0.4",
     "redux": "^4.2.0",
     "redux-persist": "^6.0.0"
