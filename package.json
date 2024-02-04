@@ -1,5 +1,5 @@
 {
-  "name": "pocketbase-react",
+  "name": "@yogeshp98/pocketbase-react",
   "version": "0.21.0",
   "description": "Unofficial [Updated!] React SDK (React, React Native, Expo) for interacting with the PocketBase JS SDK",
   "keywords": [
